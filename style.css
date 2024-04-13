@@ -1,0 +1,73 @@
+
+        .first {
+            width: 1643px;
+            height: 661px;
+            top: 47px;
+            left: 38px;
+            gap: 0px;
+            opacity: 0px;
+
+        }
+
+        .second {
+            width: 1051px;
+            height: 894px;
+            top: 742px;
+            left: 58px;
+            gap: 0px;
+            opacity: 0px;
+        }
+
+        .third {
+            width: 245px;
+            height: 48px;
+            top: 1670px;
+            left: 58px;
+            gap: 0px;
+            opacity: 0px;
+        }
+
+        .fourth {
+            width: 1623px;
+            height: 469px;
+            top: 1795px;
+            left: 58px;
+            gap: 0px;
+            opacity: 0px;
+
+        }
+
+        .inner {
+            width: 1643px;
+            height: 648.57px;
+            top: 47px;
+            left: 38px;
+            gap: 0px;
+            border: 2px 0px 0px 0px;
+            opacity: 0px;
+            border: 2px solid #000000
+        }
+
+        span.beagle {
+            font-family: Inter;
+            font-size: 40px;
+            font-style: italic;
+            font-weight: 700;
+            line-height: 48.41px;
+            text-align: left;
+        }
+
+        .blog {
+            width: 1540.51px;
+            height: 350px;
+            top: 94.46px;
+            left: 89px;
+            gap: 0px;
+            opacity: 0px;
+        }
+
+        img {
+
+            background-size: cover;
+
+        }
